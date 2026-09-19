@@ -1,0 +1,19 @@
+name: acakclip
+description: ACakCLIP V8 Real UI Project
+publish_to: 'none'
+version: 8.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
